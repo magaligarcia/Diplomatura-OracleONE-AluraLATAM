@@ -7,6 +7,7 @@
 **Alura LATAM:** https://www.aluracursos.com/
  
 ##  Índice de Certificaciones:
+### Principiante en programación
 * Lógica de programación:
     + [Primeros pasos](https://app.aluracursos.com/certificate/01adfff4-2762-42bb-8512-0dec13992f5d)
     + [Conceptos primordiales](https://app.aluracursos.com/certificate/fcafaf7e-609a-4796-950c-36f10e0ab893)
@@ -21,6 +22,11 @@
     + [Consolide sus conocimientos en el lenguaje de la web](https://app.aluracursos.com/certificate/ca81cd91-0cd3-4742-a2a3-bf63681fdcec)
 * Git y GitHub:
     + [Controle y comparta su código](https://app.aluracursos.com/certificate/b9f6dfa2-633c-4292-9b1c-323ea9c445c3)
+
+### Front End
+* Front-End UI:
+    + [Flexbox: Posicione elementos en la pantalla](https://app.aluracursos.com/certificate/c0a25746-f006-40a6-814b-f7b3c045d283)
+    + [CSS Grid: Simplificando layouts](https://app.aluracursos.com/certificate/d351864c-9d48-4f20-8a53-c310af9423be)
 
 ***
 ## Cursos aprobados hasta el momento
