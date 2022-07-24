@@ -7,49 +7,22 @@
 **Alura LATAM:** https://www.aluracursos.com/
  
 ##  Índice de Certificaciones:
-* [Lógica de programación parte 1:](#id1)
-    + [Primeros pasos](#id2)
-    + [Conceptos primordiales](#id3)
-    + [Practicando con juegos y animaciones](#id4)
-* [Lógica de programación parte 2:](#id5)
+* Lógica de programación:
+    + [Primeros pasos](https://app.aluracursos.com/certificate/01adfff4-2762-42bb-8512-0dec13992f5d)
+    + [Conceptos primordiales](https://app.aluracursos.com/certificate/fcafaf7e-609a-4796-950c-36f10e0ab893)
+    + [Practicando con juegos y animaciones](https://app.aluracursos.com/certificate/43be2518-bfe3-4b3e-bdfa-accf8b505fbe)
+* [HTML5 y CSS3:]
+    + [Mi primera página web](https://app.aluracursos.com/certificate/c1fde86a-315e-4322-ab0d-ebdb6c2cef64)
+    + [Conceptos primordiales](https://app.aluracursos.com/certificate/d80eabd3-b295-4d64-91cb-dee1ff12bbdb)
+    + [Practicando con juegos y animaciones](https://app.aluracursos.com/certificate/90c0dac5-fdcb-4ced-b794-46a7817f2ff0)
+    + [Avanzando en CSS](https://app.aluracursos.com/certificate/48dc6639-22fc-433b-9512-3a0e972a7a9e)
 
 ***
-<div id='id1' />
+## Cursos aprobados hasta el momento
 
-<div id='id2' />
+Verificación: https://app.aluracursos.com/user/magalimaribelgarcia/fullCertificate/9695e9d6513bbcc3757d52a47265a09f
 
-![image](https://user-images.githubusercontent.com/60717025/180665831-6534a80f-3ee4-4b80-baf1-41764adebc59.png)
-
-#### Primeros Pasos: 
-Verificación: https://app.aluracursos.com/certificate/01adfff4-2762-42bb-8512-0dec13992f5d
-
-![image](https://user-images.githubusercontent.com/60717025/180663631-9b841272-796e-4952-b3b9-edd96bee0cf6.png)
-![image](https://user-images.githubusercontent.com/60717025/180663525-ef8537e0-1bce-439c-bb7c-95a94b2318c6.png)
-![image](https://user-images.githubusercontent.com/60717025/180663604-281a70b1-866f-4b7d-961a-2444d79a8830.png)
-
-
-<div id='id3' />
-
-![image](https://user-images.githubusercontent.com/60717025/180665885-8dc273b4-2f93-417c-a6ec-66c70bff476f.png)
-
-#### Conceptos primordiales:
-Verificiación: https://app.aluracursos.com/certificate/fcafaf7e-609a-4796-950c-36f10e0ab893
-
-![image](https://user-images.githubusercontent.com/60717025/180666037-ecebddcf-e4b8-4eb4-bcc9-b629ab0e7491.png)
-![image](https://user-images.githubusercontent.com/60717025/180665972-4560f70e-2afc-441d-b294-209403d20036.png)
-![image](https://user-images.githubusercontent.com/60717025/180666008-5f54f440-00a3-4e04-8d46-979ff19a0ebe.png)
-
-
-<div id='id4' />
-
-![image](https://user-images.githubusercontent.com/60717025/180666105-a8ffa406-9176-455e-be84-e4d5abcd84e1.png)
-
-#### Practicando con juegos y animaciones:
-Verificación: https://app.aluracursos.com/certificate/43be2518-bfe3-4b3e-bdfa-accf8b505fbe
-
-![image](https://user-images.githubusercontent.com/60717025/180667611-9e07afc9-e1be-4fa5-b8e6-0237ae4d9ec5.png)
-![image](https://user-images.githubusercontent.com/60717025/180667597-5b7d8f96-5c0c-4fcd-a381-13de829bc57a.png)
-![image](https://user-images.githubusercontent.com/60717025/180667603-6a799b6e-9562-4cef-8814-2be7f742d145.png)
-
-
-<div id='id5' />
+![image](https://user-images.githubusercontent.com/60717025/180668753-9e7b334b-b872-4c03-ad61-9f2413f48fb3.png)
+![image](https://user-images.githubusercontent.com/60717025/180668781-96edd333-e4f4-457c-af96-83ba124dadcd.png)
+![image](https://user-images.githubusercontent.com/60717025/180668796-3531a0e0-9348-4f4c-983c-a3c60837a1c1.png)
+![image](https://user-images.githubusercontent.com/60717025/180668820-fffb178d-89ba-4738-bcfe-594b3cd38735.png)
