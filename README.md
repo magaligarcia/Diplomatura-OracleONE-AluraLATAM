@@ -44,5 +44,12 @@ Verificiación: https://app.aluracursos.com/certificate/fcafaf7e-609a-4796-950c-
 
 ![image](https://user-images.githubusercontent.com/60717025/180666105-a8ffa406-9176-455e-be84-e4d5abcd84e1.png)
 
-#### Practicando con juegos y animaciones
+#### Practicando con juegos y animaciones:
+Verificación: https://app.aluracursos.com/certificate/43be2518-bfe3-4b3e-bdfa-accf8b505fbe
+
+![image](https://user-images.githubusercontent.com/60717025/180667611-9e07afc9-e1be-4fa5-b8e6-0237ae4d9ec5.png)
+![image](https://user-images.githubusercontent.com/60717025/180667597-5b7d8f96-5c0c-4fcd-a381-13de829bc57a.png)
+![image](https://user-images.githubusercontent.com/60717025/180667603-6a799b6e-9562-4cef-8814-2be7f742d145.png)
+
+
 <div id='id5' />
