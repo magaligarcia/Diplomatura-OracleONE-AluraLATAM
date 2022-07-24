@@ -11,11 +11,16 @@
     + [Primeros pasos](https://app.aluracursos.com/certificate/01adfff4-2762-42bb-8512-0dec13992f5d)
     + [Conceptos primordiales](https://app.aluracursos.com/certificate/fcafaf7e-609a-4796-950c-36f10e0ab893)
     + [Practicando con juegos y animaciones](https://app.aluracursos.com/certificate/43be2518-bfe3-4b3e-bdfa-accf8b505fbe)
-* [HTML5 y CSS3:]
+* HTML5 y CSS3:
     + [Mi primera página web](https://app.aluracursos.com/certificate/c1fde86a-315e-4322-ab0d-ebdb6c2cef64)
     + [Conceptos primordiales](https://app.aluracursos.com/certificate/d80eabd3-b295-4d64-91cb-dee1ff12bbdb)
     + [Practicando con juegos y animaciones](https://app.aluracursos.com/certificate/90c0dac5-fdcb-4ced-b794-46a7817f2ff0)
     + [Avanzando en CSS](https://app.aluracursos.com/certificate/48dc6639-22fc-433b-9512-3a0e972a7a9e)
+* Javascript:
+    + [Introducción al lenguaje de la web](https://app.aluracursos.com/certificate/c27f0452-285b-4c04-af61-5a7eceb2bcaa)
+    + [Consolide sus conocimientos en el lenguaje de la web](https://app.aluracursos.com/certificate/ca81cd91-0cd3-4742-a2a3-bf63681fdcec)
+* Git y GitHub:
+    + [Controle y comparta su código](https://app.aluracursos.com/certificate/b9f6dfa2-633c-4292-9b1c-323ea9c445c3)
 
 ***
 ## Cursos aprobados hasta el momento
