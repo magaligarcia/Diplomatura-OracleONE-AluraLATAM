@@ -16,9 +16,9 @@
 ***
 <div id='id1' />
 
-### Lógica de programación parte 1:
-
 <div id='id2' />
+
+![image](https://user-images.githubusercontent.com/60717025/180665831-6534a80f-3ee4-4b80-baf1-41764adebc59.png)
 
 #### Primeros Pasos: 
 Verificación: https://app.aluracursos.com/certificate/01adfff4-2762-42bb-8512-0dec13992f5d
@@ -30,9 +30,19 @@ Verificación: https://app.aluracursos.com/certificate/01adfff4-2762-42bb-8512-0
 
 <div id='id3' />
 
+![image](https://user-images.githubusercontent.com/60717025/180665885-8dc273b4-2f93-417c-a6ec-66c70bff476f.png)
+
 #### Conceptos primordiales:
+Verificiación: https://app.aluracursos.com/certificate/fcafaf7e-609a-4796-950c-36f10e0ab893
+
+![image](https://user-images.githubusercontent.com/60717025/180666037-ecebddcf-e4b8-4eb4-bcc9-b629ab0e7491.png)
+![image](https://user-images.githubusercontent.com/60717025/180665972-4560f70e-2afc-441d-b294-209403d20036.png)
+![image](https://user-images.githubusercontent.com/60717025/180666008-5f54f440-00a3-4e04-8d46-979ff19a0ebe.png)
+
 
 <div id='id4' />
+
+![image](https://user-images.githubusercontent.com/60717025/180666105-a8ffa406-9176-455e-be84-e4d5abcd84e1.png)
 
 #### Practicando con juegos y animaciones
 <div id='id5' />
