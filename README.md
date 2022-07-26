@@ -27,6 +27,7 @@
 * Front-End UI:
     + [Flexbox: Posicione elementos en la pantalla](https://app.aluracursos.com/certificate/c0a25746-f006-40a6-814b-f7b3c045d283)
     + [CSS Grid: Simplificando layouts](https://app.aluracursos.com/certificate/d351864c-9d48-4f20-8a53-c310af9423be)
+    + [Layouts Responsivos: Trabajando con layouts mobile](https://app.aluracursos.com/certificate/216b4baa-157d-4ef6-884a-c896237f02b6)
 
 ***
 ## Cursos aprobados hasta el momento
