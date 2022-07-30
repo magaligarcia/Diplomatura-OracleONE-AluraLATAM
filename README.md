@@ -37,4 +37,8 @@ Verificación: https://app.aluracursos.com/user/magalimaribelgarcia/fullCertific
 ![image](https://user-images.githubusercontent.com/60717025/180668753-9e7b334b-b872-4c03-ad61-9f2413f48fb3.png)
 ![image](https://user-images.githubusercontent.com/60717025/180668781-96edd333-e4f4-457c-af96-83ba124dadcd.png)
 ![image](https://user-images.githubusercontent.com/60717025/180668796-3531a0e0-9348-4f4c-983c-a3c60837a1c1.png)
-![image](https://user-images.githubusercontent.com/60717025/180668820-fffb178d-89ba-4738-bcfe-594b3cd38735.png)
+![image](https://user-images.githubusercontent.com/60717025/181924574-0a734fc2-e5b2-4366-af11-25c5efbf2abd.png)
+
+https://app.aluracursos.com/user/magalimaribelgarcia/fullCertificate/9695e9d6513bbcc3757d52a47265a09f
+
+
